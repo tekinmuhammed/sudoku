@@ -1,2 +1,2 @@
 # Sudoku
-LeetCode 36 sudoku
+LeetCode 36 valid sudoku
